@@ -1,0 +1,6 @@
+Data science resources
+
+Tutorial on random forests
+-Description
+-https://scikit-learn.org/stable/modules/ensemble.html#random-forests
+
