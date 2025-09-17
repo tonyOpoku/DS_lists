@@ -1,5 +1,10 @@
 Python libraries for data science
 
+Seaborn
+-Description: Plotting and data visualization library which uses data structures from the Panda database
+-Example code: 
+sns.plot(data=df.flights, x='dep_delay', y='arr_delay')
+
 Scikit-learn
 -Description
 -Example code:
