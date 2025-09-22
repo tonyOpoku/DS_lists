@@ -5,4 +5,5 @@ k-means
 -usecase
 -code snipet
 -abcabcabc
+-bcd
 
