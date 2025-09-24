@@ -2,4 +2,16 @@ Datasets
 
 Titanic survivers
 -Description
--Location (kaggle)
+-Location (kaggle)Charlie,35,Houston
+David,40,Miami
+Charlie,35,Houston
+David,40,Miami
+Charlie,35,Houston
+David,40,Miami
+Thanusha
+10,X
+20,Y
+10,X
+20,Y
+10,X
+20,Y
